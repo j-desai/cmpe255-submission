@@ -1,0 +1,21 @@
+R2 Score =  0.6402872925580455
+
+ RMSE =  MEDV    5.378985
+dtype: float64
+
+ RMSE for Polynomial Regression degree 2 =  MEDV    5.507315
+dtype: float64
+
+ R2 Score for Polynomial Regression degree 2 =  0.6407168971636611
+
+ RMSE for Polynomial Regression degree 20=  MEDV    6.723979
+dtype: float64
+
+ R2 Score for Polynomial Regression degree 20 =  0.4644381797408552
+
+ R2 Score for Multiple Regression =  0.6409803793373563
+
+ RMSE for Multiple Regression =  MEDV    5.631771
+dtype: float64
+
+ Adjusted R-squared score for Multiple Regression =  0.6385869151996053
